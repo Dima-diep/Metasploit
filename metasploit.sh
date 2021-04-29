@@ -7,6 +7,7 @@ pkg update -y
 pkg upgrade -y
 apt install curl -y
 curl -sSf https://raw.githubusercontent.com/Jemacivan/metasploit-installer-termux/main/install_metasploit.sh | bash
+rm -rf metasploit.sh
 echo "Metasploit has been installed. You can open it by msfconsole command. Open it now? y/n"
 if y
 then
