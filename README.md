@@ -1,4 +1,7 @@
 # Metasploit
+
+OS System = Termux
+
 Easy installer Metasploit
 
 For installing, write it:
