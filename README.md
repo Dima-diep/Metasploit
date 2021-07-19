@@ -4,8 +4,11 @@ OS System = Termux
 
 Easy installer Metasploit
 
-For installing, write it:
-chmod +x metasploit.sh
-./metasploit.sh
+## Installation
 
+For installing, write it:
+```
+$ chmod +x metasploit.sh
+$ bash metasploit.sh
+```
 It takes about 10-20 minutes
